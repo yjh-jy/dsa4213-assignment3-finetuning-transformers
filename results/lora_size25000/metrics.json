@@ -1,0 +1,13 @@
+{
+  "strategy": "lora",
+  "dataset_size": 25000,
+  "trainable_params": 739586,
+  "train_time": 3109.839716911316,
+  "train_runtime_from_trainer": 3109.7498,
+  "train_samples": 25000,
+  "eval_loss": 0.24904228746891022,
+  "eval_accuracy": 0.8966,
+  "eval_f1": 0.8965994241001525,
+  "eval_steps_used": 390,
+  "logging_steps_used": 97
+}

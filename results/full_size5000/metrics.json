@@ -1,0 +1,13 @@
+{
+  "strategy": "full",
+  "dataset_size": 5000,
+  "trainable_params": 66955010,
+  "train_time": 1666.4126119613647,
+  "train_runtime_from_trainer": 1665.9797,
+  "train_samples": 5000,
+  "eval_loss": 0.37619733810424805,
+  "eval_accuracy": 0.89464,
+  "eval_f1": 0.8946335235863073,
+  "eval_steps_used": 78,
+  "logging_steps_used": 19
+}

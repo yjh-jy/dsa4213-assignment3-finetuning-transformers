@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# MacOS related
+.DS_Store
+
+# Intermediate Training artefacts (only saves the final best model / plots)
+results/*/checkpoint*  
+
 # Distribution / packaging
 .Python
 build/
