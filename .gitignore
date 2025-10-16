@@ -12,6 +12,7 @@ __pycache__/
 # Intermediate Training artefacts (only saves the final best model / plots and ignores safetensors as they exceed Github's limits)
 results/*/checkpoint*  
 results/*/model.safetensors
+results/*/adapter_model.safetensors
 
 # Distribution / packaging
 .Python
