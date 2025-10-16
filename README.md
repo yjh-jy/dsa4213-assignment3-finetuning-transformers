@@ -1,5 +1,7 @@
 # Parameter-Efficient Fine-Tuning of DistilBERT for Sentiment Classification (IMDB)
-DSA4213 Assignment 3 - Finetuning Pretrained Transformers on IMDB Movie Reviews
+This project is completed for Assignment 3 under the DSA4213 NLP for Data Science course.
+
+For the full report, please access [here](report.pdf).
 
 ## **Directory (important files/folders):**
 
