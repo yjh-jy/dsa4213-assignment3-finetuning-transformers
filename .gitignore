@@ -9,8 +9,9 @@ __pycache__/
 # MacOS related
 .DS_Store
 
-# Intermediate Training artefacts (only saves the final best model / plots)
+# Intermediate Training artefacts (only saves the final best model / plots and ignores safetensors as they exceed Github's limits)
 results/*/checkpoint*  
+results/*/model.safetensors
 
 # Distribution / packaging
 .Python
